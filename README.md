@@ -19,10 +19,6 @@ These instructions outlines the post-install configuration of the open-source he
 
 - Windows 10</b> (21H2)
 
-Video Tutorial
-
-https://youtu.be/l4JHoQ7yObE
-
 
 ## **Phase 2: Configuration**
 Now that we've installed all components of the osTicket System, the next step is to take osTicket
